@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link:hover{
+    color: rgb(192, 192, 192) !important;
+    transition: 0.5s;
+}
+
